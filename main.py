@@ -9,4 +9,5 @@ def reset_password():
     pass
 def set_usr_credaintials(name,password):
     pass
-    
+def reset_password():
+    pass   
